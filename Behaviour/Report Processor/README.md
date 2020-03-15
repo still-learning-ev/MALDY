@@ -8,4 +8,4 @@
 - Create a dataset from the above cleaned data in the CSV format(automatically or manually)
 - Label the data (malnually or automatically)
 
-Manually adding the labels and data to a CSV file using Notepad++ is better and using the seprator @ between the data and the label is good and is used in this file
+Manually adding the labels and data to a CSV file using Notepad++ is better and using the seprator @ between the data and the label is good and is used in this project for the CSV file created. You may choose the seprator acording to your choice remember to update the python file to seprate the data in columns using your seprator.
