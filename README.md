@@ -5,3 +5,8 @@
 - Cuckoo sandbox 
 - Virtual box
 - Ubuntu 
+- Python3 and Python2
+
+#### The two basic modules of this framework are
+- Static analysis using pefile
+- Behavioural analysis using ML and NLP
